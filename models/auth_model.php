@@ -6,7 +6,7 @@
  * @package	CI Controller
  * @category Database Controller
  * @author
- * @link	http://avizium.com/
+ * @link	
  * @version 2.0.0-pre
  */
 
